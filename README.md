@@ -9,7 +9,7 @@
 
 - 💡 Gostaria de participar de iniciativas afim de ganhar experiência na área de dados! **Estágios não remunerados e parcerias são super bem vindas!**
 
-- 📫 Você pode me contatar através do e-mail: **f.ferreiira@hotmail.com**
+- 📫 Todos conseguem me contatar através do e-mail: **f.ferreiira@hotmail.com**
 
 - 📌 Você pode me perguntar sobre **Excel/Google Sheets, Power BI e SQL**
 
